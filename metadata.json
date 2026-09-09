@@ -1,0 +1,6 @@
+{
+  "name": "PET Radiotracer Campaign Budget Estimator",
+  "description": "Preclinical PET radiotracer research budget calculator and cost estimation model with real-time campaign breakdown, tier analysis, and customizable parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
